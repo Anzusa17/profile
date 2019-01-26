@@ -1,0 +1,18 @@
+body {
+	text-align:center;
+	font-family:shadows into light;
+	color:blue;
+	background-color:linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+	background-position:center;
+	background-size:cover;
+	font-size:1cm;
+
+}
+nav ul li {
+	display: inline;
+	border:1px;
+
+}
+	#about {
+
+	}

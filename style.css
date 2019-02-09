@@ -1,8 +1,8 @@
 body {
 	text-align:center;
-	font-family:shadows into light;
-	color:blue;
-	background-color:linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+	font-family:'merienda', cursive;
+	color:#fff793;
+	background-color:#f98496;
 	background-position:center;
 	background-size:cover;
 	font-size:1cm;
@@ -10,9 +10,7 @@ body {
 }
 nav ul li {
 	display: inline;
-	border:1px;
-
+	border:4px green ;
+	padding: 10px 0px;
+	margin: 0px 10px;
 }
-	#about {
-
-	}
